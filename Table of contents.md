@@ -14,16 +14,13 @@
 8. [Digital Twins, Simulation & AI](#chapter-8-digital-twins-simulation--ai)  
 9. [Predictive Maintenance, Quality & Operations](#chapter-9-predictive-maintenance-quality--operations)  
 10. [Responsible AI and Engineering Ethics](#chapter-10-responsible-ai-and-engineering-ethics)  
-11. [Reengineering the Engineer: Skills of the AI Age](#chapter-11-reengineering-the-engineer-skills-of-the-ai-age)  
+11. [Reengineering the Engineer — Skills of the AI Age](#chapter-11-reengineering-the-engineer-skills-of-the-ai-age)  
 12. [Designing AI-First Teams and Organizations](#chapter-12-designing-ai-first-teams-and-organizations)  
 13. [AI × Edge, IoT, and Robotics](#chapter-13-ai--edge-iot-and-robotics)  
 14. [Data Is the New Design Material](#chapter-14-data-is-the-new-design-material)  
-15. [The Future Engineer's Toolbox](#chapter-15-the-future-engineers-toolbox)  
+15. [The Future Engineer’s Toolbox & Beyond](#chapter-15-the-future-engineers-toolbox--beyond)  
 16. [AI in Crisis: Climate, Infrastructure, and Health](#chapter-16-ai-in-crisis-climate-infrastructure-and-health)  
 17. [The Rise of Autonomous Systems](#chapter-17-the-rise-of-autonomous-systems)  
 18. [Governance, Bias, and AI Safety](#chapter-18-governance-bias-and-ai-safety)  
 19. [Becoming an AI-Native Engineer](#chapter-19-becoming-an-ai-native-engineer)  
 20. [The Next 50 Years of Engineering](#chapter-20-the-next-50-years-of-engineering)
-
----
-
