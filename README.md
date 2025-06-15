@@ -59,7 +59,7 @@ This book is shared under [ Creative Commons Attribution-NonCommercial-ShareAlik
 ## Contact
 
 For questions, feedback, or collaboration opportunities, please contact:  
-**Email:** myEmail@gmail.com  
+**Email:** rajeesh_shenoy@outlook.com  
 **LinkedIn:** https://linkedin.com/in/rajeeshrshenoy
 
 ---
