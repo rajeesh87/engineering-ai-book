@@ -32,7 +32,7 @@
 
 
 # Foreword: The Dawn of Intelligent Engineering
-*by Dr. Udaylal Pai*
+*by Dr. Taboshi*
 
 As someone who has spent decades exploring the intersections of tradition, technology, and truth, I am honored to write the foreword to a book that seeks to reshape how we perceive engineering in the age of artificial intelligence.
 
@@ -50,7 +50,7 @@ The Bhagavad Gita reminds us: *"Yogah karmasu kaushalam" — Yoga is excellence 
 
 Read this not just with your mind, but with your conscience.
 
-— **Dr. Udaylal Pai**  
+— **Dr.Taboshi**  
 Author, Philosopher, Global Speaker  
 June 2025
 
