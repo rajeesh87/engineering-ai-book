@@ -1,7 +1,5 @@
 # 📖 Table of Contents
 
-- [Foreword: The Dawn of Intelligent Engineering](#foreword-the-dawn-of-intelligent-engineering)
-
 ## 🚀 Chapters
 
 1. [The AI Imperative](#chapter-1-the-ai-imperative)  
