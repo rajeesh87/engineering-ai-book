@@ -1,4 +1,4 @@
-# Chapter 18: Governance, Bias, and AI Safety
+# Governance, Bias, and AI Safety
 
 ## Introduction: The Importance of Governance in AI
 
@@ -8,49 +8,49 @@ As AI systems become more powerful and widespread, governing their development a
 
 ### Sources of Bias
 
-- **Data Bias:** Historical data used to train AI may reflect existing prejudices or inequalities.  
-- **Algorithmic Bias:** Model design choices can unintentionally amplify biases.  
+- **Data Bias:** Historical data used to train AI may reflect existing prejudices or inequalities.
+- **Algorithmic Bias:** Model design choices can unintentionally amplify biases.
 - **User Interaction Bias:** Feedback loops where user behavior reinforces certain patterns.
 
 ### Impacts of Bias
 
-- Discrimination in hiring, lending, law enforcement, and healthcare.  
-- Undermining trust in AI technologies.  
+- Discrimination in hiring, lending, law enforcement, and healthcare.
+- Undermining trust in AI technologies.
 - Social and economic disparities worsened by unfair AI decisions.
 
 ## AI Safety Challenges
 
-- **Robustness:** Ensuring AI systems perform reliably under diverse, unexpected conditions.  
-- **Transparency:** Making AI decision-making explainable and understandable.  
-- **Security:** Protecting systems from adversarial attacks or manipulation.  
+- **Robustness:** Ensuring AI systems perform reliably under diverse, unexpected conditions.
+- **Transparency:** Making AI decision-making explainable and understandable.
+- **Security:** Protecting systems from adversarial attacks or manipulation.
 - **Alignment:** Aligning AI goals with human values to avoid unintended consequences.
 
 ## Governance Frameworks and Best Practices
 
-- **Regulatory Approaches:** Laws and guidelines like GDPR, AI Act, and ethical codes for AI practitioners.  
-- **Standards Development:** International standards for safety, fairness, and interoperability.  
-- **Audit and Accountability:** Independent audits, impact assessments, and mechanisms for redress.  
+- **Regulatory Approaches:** Laws and guidelines like GDPR, AI Act, and ethical codes for AI practitioners.
+- **Standards Development:** International standards for safety, fairness, and interoperability.
+- **Audit and Accountability:** Independent audits, impact assessments, and mechanisms for redress.
 - **Multistakeholder Engagement:** Collaboration among governments, industry, academia, and civil society.
 
 ## Engineering for Fairness and Safety
 
-- **Bias Mitigation Techniques:** Data preprocessing, algorithm adjustments, and fairness constraints.  
-- **Explainable AI (XAI):** Tools to provide insight into AI decisions for users and regulators.  
-- **Safety Testing and Validation:** Rigorous evaluation under varied scenarios before deployment.  
+- **Bias Mitigation Techniques:** Data preprocessing, algorithm adjustments, and fairness constraints.
+- **Explainable AI (XAI):** Tools to provide insight into AI decisions for users and regulators.
+- **Safety Testing and Validation:** Rigorous evaluation under varied scenarios before deployment.
 - **Continuous Monitoring:** Post-deployment surveillance to detect drift, bias, or failures.
 
 ## Ethical Considerations
 
-- Balancing innovation with privacy, autonomy, and human dignity.  
-- Addressing the ethical dilemmas posed by autonomous decision-making.  
+- Balancing innovation with privacy, autonomy, and human dignity.
+- Addressing the ethical dilemmas posed by autonomous decision-making.
 - Ensuring inclusivity in AI development teams and stakeholder voices.
 
 ## The Engineer’s Responsibility
 
 Engineers must embed governance, fairness, and safety principles from design to deployment. This requires:
 
-- Awareness of societal impacts.  
-- Commitment to transparency and accountability.  
+- Awareness of societal impacts.
+- Commitment to transparency and accountability.
 - Lifelong learning to keep pace with evolving standards and challenges.
 
 ## Conclusion
@@ -59,4 +59,4 @@ Effective governance and proactive management of bias and safety are indispensab
 
 ---
 
-📌 *Up next: Chapter 19 — Becoming an AI-Native Engineer.*
+ *Up next: Chapter 19 — Becoming an AI-Native Engineer.*

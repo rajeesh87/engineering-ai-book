@@ -1,6 +1,6 @@
-# Chapter 8: Digital Twins, Simulation & AI
+# Digital Twins, Simulation & AI
 
-## 🌀 What Are Digital Twins?
+## What Are Digital Twins?
 
 A **Digital Twin** is a virtual replica of a physical asset, process, or system. It mirrors the real-world entity in real time using sensors, data streams, and simulation models, enabling continuous monitoring, analysis, and optimization.
 
@@ -8,7 +8,7 @@ From jet engines to entire smart cities, digital twins create a dynamic bridge b
 
 ---
 
-## 🎯 Why Digital Twins Matter in Engineering
+## Why Digital Twins Matter in Engineering
 
 - **Predictive Insights:** By simulating scenarios and analyzing real-time data, digital twins forecast failures, optimize maintenance schedules, and improve performance.
 - **Design Validation:** Engineers can test new designs or process changes virtually before physical implementation, saving time and cost.
@@ -16,7 +16,7 @@ From jet engines to entire smart cities, digital twins create a dynamic bridge b
 
 ---
 
-## 🤖 AI Powers Digital Twins
+## AI Powers Digital Twins
 
 AI enhances digital twins by:
 
@@ -28,7 +28,7 @@ AI-driven digital twins evolve from static models to intelligent systems that se
 
 ---
 
-## 🔄 Simulation and What-If Analysis
+## Simulation and What-If Analysis
 
 Simulation engines within digital twins allow engineers to run "what-if" scenarios:
 
@@ -40,7 +40,7 @@ This simulation capability transforms engineering from reactive to proactive.
 
 ---
 
-## ⚙️ Use Cases Across Domains
+## Use Cases Across Domains
 
 - **Manufacturing:** Real-time line optimization, predictive maintenance.
 - **Infrastructure:** Monitoring bridges, tunnels, power grids.
@@ -49,7 +49,7 @@ This simulation capability transforms engineering from reactive to proactive.
 
 ---
 
-## 📈 The Role of Data and Feedback Loops
+## The Role of Data and Feedback Loops
 
 Digital twins depend on continuous data flows and feedback:
 
@@ -61,7 +61,7 @@ This loop fosters a living system that improves over time.
 
 ---
 
-## 🌐 MCP Model in Digital Twins
+## MCP Model in Digital Twins
 
 The **Model–Context–Protocol (MCP)** framework fits naturally here:
 
@@ -73,7 +73,7 @@ Applying MCP ensures robustness, adaptability, and traceability in complex digit
 
 ---
 
-## 🔮 Future Trends
+## Future Trends
 
 - Integration with **augmented reality (AR)** for immersive engineering.
 - Cross-asset digital twins linking multiple systems for holistic insights.
@@ -82,10 +82,10 @@ Applying MCP ensures robustness, adaptability, and traceability in complex digit
 
 ---
 
-## 💡 Summary
+## Summary
 
 Digital twins, empowered by AI and simulation, represent a quantum leap in engineering practice. They enable engineers to visualize, predict, and optimize complex systems continuously—paving the way for smarter, safer, and more efficient engineered solutions.
 
 ---
 
-## 🔜 Up Next: Chapter 9 – Predictive Maintenance, Quality & Operations
+## Up Next: Chapter 9 – Predictive Maintenance, Quality & Operations

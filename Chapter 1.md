@@ -1,7 +1,7 @@
-# Chapter 1: The AI Imperative
+# The AI Imperative
 
-## 🚀 Why This Chapter Matters
-> _"In the 21st century, every engineer will be an AI engineer — or obsolete."_  
+## Why This Chapter Matters
+> _"In the 21st century, every engineer will be an AI engineer — or obsolete."_
 – Rajeesh Shenoy
 
 AI isn’t just a passing wave. It’s the new gravity pulling every discipline of engineering into its orbit. Whether you're building bridges, writing code, or designing energy grids — AI is no longer optional. It's foundational.
@@ -10,7 +10,7 @@ This chapter lays the groundwork for why *every engineer*, no matter the field, 
 
 ---
 
-## 🧭 A Short Story: The Civil Engineer Who Didn’t Believe in AI
+## A Short Story: The Civil Engineer Who Didn’t Believe in AI
 
 In 2022, Neha, a seasoned civil engineer, scoffed when her company suggested using AI to optimize materials in construction. “I’ve been doing this for 18 years,” she said. But one year later, she watched an AI-driven startup complete a comparable skyscraper *30% faster* and *20% cheaper*. Neha’s team was now playing catch-up.
 
@@ -18,7 +18,7 @@ She later said, “I realized engineering was no longer just about calculations 
 
 ---
 
-## 🌍 The AI Explosion Is Real
+## The AI Explosion Is Real
 
 Here’s why AI is infiltrating every layer of engineering:
 
@@ -28,7 +28,7 @@ Here’s why AI is infiltrating every layer of engineering:
 
 ---
 
-## 🔍 How AI Changes the Engineering Equation
+## How AI Changes the Engineering Equation
 
 | Traditional Approach                     | AI-Infused Approach                          |
 |------------------------------------------|-----------------------------------------------|
@@ -42,7 +42,7 @@ Here’s why AI is infiltrating every layer of engineering:
 
 ---
 
-## 💥 Bold Insight
+## Bold Insight
 
 > *“Engineering is no longer a purely deterministic science — it’s becoming a probabilistic one, powered by models that learn, evolve, and surprise even their creators.”*
 
@@ -50,7 +50,7 @@ If your engineering process today doesn’t learn from past data, it’s not jus
 
 ---
 
-## 🧰 AI Is Already Here — You Just Haven’t Noticed
+## AI Is Already Here — You Just Haven’t Noticed
 
 You're likely already using AI, even if unknowingly:
 - CAD tools with AI-driven generative design
@@ -60,7 +60,7 @@ You're likely already using AI, even if unknowingly:
 
 ---
 
-## ✅ Engineer’s Action Checklist
+## Engineer’s Action Checklist
 
 Want to future-proof your career? Start here:
 
@@ -72,10 +72,10 @@ Want to future-proof your career? Start here:
 
 ---
 
-## 🧠 From the Author: My Vision
+## From the Author: My Vision
 
 As someone who’s spent over a decade leading engineering teams, I’ve seen how AI transforms not just tools, but **mindsets**. My vision is simple: every engineer, from a college student to a CTO, should see AI as a **superpower** — not a threat. The ones who embrace it will design the future. The rest will just live in it.
 
 ---
 
-## 🔗 Up Next: Chapter 2 – Traditional Engineering Is Not Enough
+## Up Next: Chapter 2 – Traditional Engineering Is Not Enough

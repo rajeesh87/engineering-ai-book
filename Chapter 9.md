@@ -1,6 +1,6 @@
-# Chapter 9: Predictive Maintenance, Quality & Operations
+# Predictive Maintenance, Quality & Operations
 
-## 🛠️ The Shift from Reactive to Predictive
+## The Shift from Reactive to Predictive
 
 Traditional maintenance has been largely reactive or scheduled at fixed intervals. This often leads to unnecessary downtime or unexpected failures. Predictive maintenance, powered by AI, transforms this approach by anticipating issues before they happen.
 
@@ -8,7 +8,7 @@ By analyzing sensor data, usage patterns, and environmental factors, predictive 
 
 ---
 
-## 📊 Data-Driven Quality Control
+## Data-Driven Quality Control
 
 Quality assurance is evolving from manual inspections to AI-augmented monitoring:
 
@@ -20,7 +20,7 @@ This data-driven approach increases consistency and lowers costs.
 
 ---
 
-## 🤖 AI at the Heart of Operations
+## AI at the Heart of Operations
 
 AI is embedded across operational workflows:
 
@@ -32,7 +32,7 @@ These capabilities improve efficiency and sustainability.
 
 ---
 
-## 🔄 Feedback Loops and Continuous Improvement
+## Feedback Loops and Continuous Improvement
 
 The integration of IoT devices and AI creates powerful feedback loops:
 
@@ -44,7 +44,7 @@ This continuous improvement cycle drives operational excellence.
 
 ---
 
-## ⚙️ Real-World Applications
+## Real-World Applications
 
 - **Manufacturing plants:** Reducing machine downtime and defects.
 - **Aviation:** Monitoring aircraft components to prevent failures.
@@ -53,7 +53,7 @@ This continuous improvement cycle drives operational excellence.
 
 ---
 
-## 🔮 Looking Ahead
+## Looking Ahead
 
 - Increased integration of AI with **augmented reality (AR)** for maintenance support.
 - Autonomous systems that not only predict failures but also self-heal.
@@ -61,10 +61,10 @@ This continuous improvement cycle drives operational excellence.
 
 ---
 
-## 💡 Summary
+## Summary
 
 Predictive maintenance and AI-driven operational intelligence represent a paradigm shift. They enable engineers and operators to move from firefighting to foresight, enhancing reliability, quality, and efficiency across industries.
 
 ---
 
-## 🔜 Up Next: Chapter 10 – Responsible AI and Engineering Ethics
+## Up Next: Chapter 10 – Responsible AI and Engineering Ethics

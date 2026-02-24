@@ -1,12 +1,12 @@
-# Chapter 5: AI in Software Engineering
+# AI in Software Engineering
 
-## 💻 From Code to Intelligence
+## From Code to Intelligence
 
 Software engineering is no longer just about writing functional code — it's about architecting intelligent systems that learn, adapt, and evolve. AI is transforming every phase of the software development lifecycle (SDLC), from planning to monitoring.
 
 ---
 
-## 🛠️ Where AI Meets the SDLC
+## Where AI Meets the SDLC
 
 | SDLC Phase        | AI Integration Example                                               |
 |------------------|-----------------------------------------------------------------------|
@@ -21,7 +21,7 @@ AI tools are becoming co-pilots for engineers, enhancing productivity, consisten
 
 ---
 
-## 🧠 Intelligence Inside DevOps
+## Intelligence Inside DevOps
 
 Modern DevOps practices are evolving into:
 
@@ -32,7 +32,7 @@ These are no longer optional—organizations striving for velocity and resilienc
 
 ---
 
-## 🔁 Shift Left, Learn Faster
+## Shift Left, Learn Faster
 
 Integrating AI early in the development lifecycle — especially during design and testing — enables teams to:
 
@@ -44,7 +44,7 @@ This “shift-left” strategy combined with AI creates a powerful feedback loop
 
 ---
 
-## 🧱 Introducing the MCP Model in AI Engineering
+## Introducing the MCP Model in AI Engineering
 
 As software systems become increasingly intelligent and dynamic, engineers need to manage more than just code. This is where the **MCP model — Model, Context, Protocol** — becomes vital:
 
@@ -61,13 +61,13 @@ Without context or a well-defined protocol, even state-of-the-art models can lea
 
 ---
 
-## 💡 The New Engineer’s Toolkit
+## The New Engineer’s Toolkit
 
 The modern software engineer is a hybrid professional:
 
-- 🧠 Thinks like a product designer
-- 🧰 Works like a data scientist
-- 🧑‍💻 Codes like a system architect
+-Thinks like a product designer
+-Works like a data scientist
+-  Codes like a system architect
 
 ### Must-have skills:
 
@@ -78,7 +78,7 @@ The modern software engineer is a hybrid professional:
 
 ---
 
-## 👁️ From the Author: Don’t Fear the AI Assistant
+## From the Author: Don’t Fear the AI Assistant
 
 Some engineers fear AI will replace them. I believe it will **amplify** them.
 
@@ -88,4 +88,4 @@ The best engineers of the future won’t just write more code — they’ll desi
 
 ---
 
-## 🔜 Up Next: Chapter 6 – AI in Civil, Mechanical, and Electrical Engineering
+## Up Next: Chapter 6 – AI in Civil, Mechanical, and Electrical Engineering

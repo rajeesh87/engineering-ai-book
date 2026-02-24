@@ -1,6 +1,6 @@
-# Chapter 2: Traditional Engineering Is Not Enough
+# Traditional Engineering Is Not Enough
 
-## ⚙️ The Old Foundations
+## The Old Foundations
 
 Traditional engineering disciplines — whether mechanical, civil, electrical, or software — were founded in eras where the problems were well-bounded, the tools were predictable, and the systems were largely linear. Engineers built bridges, circuits, and compilers based on deterministic rules and decades of textbooks.
 
@@ -8,7 +8,7 @@ But today, the world is anything but predictable.
 
 ---
 
-## 🌍 The New Landscape of Complexity
+## The New Landscape of Complexity
 
 Modern engineering challenges are deeply intertwined with data, uncertainty, and change:
 
@@ -21,7 +21,7 @@ The result? Traditional tools alone simply can't keep up.
 
 ---
 
-## 🧠 Why Legacy Approaches Fall Short
+## Why Legacy Approaches Fall Short
 
 | Problem                            | Traditional Approach              | Modern Need                         |
 |------------------------------------|-----------------------------------|-------------------------------------|
@@ -32,7 +32,7 @@ The result? Traditional tools alone simply can't keep up.
 
 ---
 
-## ⚖️ The Cost of Standing Still
+## The Cost of Standing Still
 
 Sticking with traditional engineering alone isn’t neutral — it’s costly:
 
@@ -42,7 +42,7 @@ Sticking with traditional engineering alone isn’t neutral — it’s costly:
 
 ---
 
-## 🔍 A Tale of Two Engineers
+## A Tale of Two Engineers
 
 Let’s imagine two engineers, both equally skilled in 2015.
 
@@ -53,10 +53,10 @@ Today? Engineer B is designing self-adaptive systems, leading innovation teams, 
 
 ---
 
-## 📌 From the Author: A Candid Reflection
+## From the Author: A Candid Reflection
 
 When I began my engineering career, success was measured by how well you could apply known equations to known problems. But now? I’m more interested in how engineers can solve **unknown problems using learning systems**. The old rules don’t apply anymore. We need a hybrid mindset — systems thinking, ethical responsibility, and intelligent augmentation.
 
 ---
 
-## 🔜 Up Next: Chapter 3 – What Is Advanced AI?
+## Up Next: Chapter 3 – What Is Advanced AI?

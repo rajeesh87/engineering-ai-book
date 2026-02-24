@@ -1,4 +1,4 @@
-# Chapter 13: AI × Edge, IoT, and Robotics
+# AI × Edge, IoT, and Robotics
 
 ## The Convergence of AI and Connected Technologies
 
@@ -14,15 +14,15 @@ Edge AI refers to running AI algorithms locally on devices (the "edge") rather t
 
 ### Benefits of Edge AI
 
-- **Reduced Latency:** Instant decision-making critical for applications like autonomous vehicles and industrial automation.  
-- **Bandwidth Optimization:** Less data sent to cloud reduces network costs and congestion.  
-- **Enhanced Privacy:** Sensitive data can be processed locally without transmission, improving compliance.  
+- **Reduced Latency:** Instant decision-making critical for applications like autonomous vehicles and industrial automation.
+- **Bandwidth Optimization:** Less data sent to cloud reduces network costs and congestion.
+- **Enhanced Privacy:** Sensitive data can be processed locally without transmission, improving compliance.
 - **Resilience:** Devices can operate independently during network disruptions.
 
 ### Edge AI Applications
 
-- Smart cameras that detect anomalies in manufacturing lines.  
-- Real-time health monitoring wearables.  
+- Smart cameras that detect anomalies in manufacturing lines.
+- Real-time health monitoring wearables.
 - Autonomous drones performing inspections in hazardous environments.
 
 ## IoT and AI: Data-Driven Connectivity
@@ -33,14 +33,14 @@ IoT devices generate vast streams of data from sensors embedded in machines, bui
 
 ### AI-Enabled IoT Use Cases
 
-- **Smart Cities:** Traffic flow optimization, energy management, and public safety.  
-- **Industrial IoT:** Monitoring equipment health, reducing downtime, and optimizing supply chains.  
+- **Smart Cities:** Traffic flow optimization, energy management, and public safety.
+- **Industrial IoT:** Monitoring equipment health, reducing downtime, and optimizing supply chains.
 - **Consumer IoT:** Personalized experiences via smart homes and wearables.
 
 ### Challenges in AI + IoT
 
-- **Data Volume and Velocity:** Managing and processing massive, continuous data streams.  
-- **Interoperability:** Diverse devices and standards require unified platforms.  
+- **Data Volume and Velocity:** Managing and processing massive, continuous data streams.
+- **Interoperability:** Diverse devices and standards require unified platforms.
 - **Security:** Protecting networks and devices from cyber threats.
 
 ## Robotics and AI: Autonomous Machines
@@ -51,14 +51,14 @@ AI empowers robots to perceive their environment, make decisions, and learn from
 
 ### Types of AI-Driven Robots
 
-- **Industrial Robots:** Performing complex assembly, quality inspection, and material handling with precision.  
-- **Collaborative Robots (Cobots):** Safely working alongside humans to augment productivity.  
+- **Industrial Robots:** Performing complex assembly, quality inspection, and material handling with precision.
+- **Collaborative Robots (Cobots):** Safely working alongside humans to augment productivity.
 - **Service Robots:** Assisting in healthcare, hospitality, and logistics.
 
 ### Emerging Trends
 
-- **Reinforcement Learning:** Robots learn optimal actions through trial and error.  
-- **Natural Language Processing:** Enabling voice commands and human-robot interaction.  
+- **Reinforcement Learning:** Robots learn optimal actions through trial and error.
+- **Natural Language Processing:** Enabling voice commands and human-robot interaction.
 - **Swarm Robotics:** Coordinated behavior among multiple robots for scalability.
 
 ## Integration and Synergy
@@ -67,8 +67,8 @@ The combination of AI, edge computing, IoT, and robotics creates ecosystems wher
 
 ## Key Considerations
 
-- **Data Privacy and Ethics:** Ensuring responsible use of data collected by connected devices.  
-- **Real-Time Constraints:** Balancing computational load between edge and cloud.  
+- **Data Privacy and Ethics:** Ensuring responsible use of data collected by connected devices.
+- **Real-Time Constraints:** Balancing computational load between edge and cloud.
 - **Standards and Protocols:** Adopting frameworks that facilitate device communication and interoperability.
 
 ## Conclusion
@@ -77,4 +77,4 @@ The integration of AI with edge, IoT, and robotics represents a new frontier of 
 
 ---
 
-📌 *Up next: Chapter 14 — Data Is the New Design Material.*
+ *Up next: Chapter 14 — Data Is the New Design Material.*

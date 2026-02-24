@@ -1,6 +1,6 @@
-# Chapter 7: From Rule-Based Systems to Learning Systems
+# From Rule-Based Systems to Learning Systems
 
-## 🕰️ The Evolution of Intelligent Systems
+## The Evolution of Intelligent Systems
 
 Early AI and automation relied heavily on **rule-based systems** — explicit, handcrafted rules encoded by experts to make decisions. These systems worked well for well-defined, narrow tasks but struggled with complexity, variability, and scalability.
 
@@ -8,7 +8,7 @@ Today, we’ve transitioned to **learning systems** — AI models that learn pat
 
 ---
 
-## 📜 Rule-Based Systems: The Foundations
+## Rule-Based Systems: The Foundations
 
 Rule-based systems function like a decision tree, where conditions trigger predefined actions.
 
@@ -26,7 +26,7 @@ Examples include expert systems in diagnostics, early industrial controllers, an
 
 ---
 
-## 🤖 Learning Systems: Embracing Data
+## Learning Systems: Embracing Data
 
 Learning systems — especially those using machine learning (ML) and deep learning — automatically extract knowledge from data.
 
@@ -44,7 +44,7 @@ Learning systems power modern AI applications such as computer vision, natural l
 
 ---
 
-## 🔄 Hybrid Approaches: The Best of Both Worlds
+## Hybrid Approaches: The Best of Both Worlds
 
 Many practical systems combine rules and learning:
 
@@ -54,7 +54,7 @@ Many practical systems combine rules and learning:
 
 ---
 
-## 📈 The Role of Feedback and Continuous Learning
+## The Role of Feedback and Continuous Learning
 
 Learning systems thrive on feedback loops:
 
@@ -64,7 +64,7 @@ Learning systems thrive on feedback loops:
 
 ---
 
-## ⚙️ Implications for Engineering Practice
+## Implications for Engineering Practice
 
 Moving from rule-based to learning systems requires engineers to:
 
@@ -75,7 +75,7 @@ Moving from rule-based to learning systems requires engineers to:
 
 ---
 
-## 🌐 Contextualizing with the MCP Model
+## Contextualizing with the MCP Model
 
 In learning systems, the **MCP (Model–Context–Protocol)** framework helps manage complexity:
 
@@ -87,7 +87,7 @@ This triad ensures that learning systems remain trustworthy and effective across
 
 ---
 
-## 💡 Looking Forward
+## Looking Forward
 
 The shift to learning systems represents a new engineering paradigm — one that values adaptability, data fluency, and ethical stewardship.
 
@@ -95,4 +95,4 @@ Engineers equipped to design, deploy, and govern these systems will lead the nex
 
 ---
 
-## 🔜 Up Next: Chapter 8 – Digital Twins, Simulation & AI
+## Up Next: Chapter 8 – Digital Twins, Simulation & AI

@@ -1,6 +1,6 @@
-# Chapter 6: AI in Civil, Mechanical, and Electrical Engineering
+# AI in Civil, Mechanical, and Electrical Engineering
 
-## 🏗️ The Expanding Horizon of AI in Traditional Engineering
+## The Expanding Horizon of AI in Traditional Engineering
 
 While software engineering has rapidly embraced AI, civil, mechanical, and electrical engineering are now entering an era where AI-driven technologies fundamentally reshape design, construction, and operation.
 
@@ -8,7 +8,7 @@ AI enables these disciplines to move from deterministic, static processes to ada
 
 ---
 
-## 🏗️ Civil Engineering: Smarter Infrastructure
+## Civil Engineering: Smarter Infrastructure
 
 Civil engineers are leveraging AI for:
 
@@ -19,7 +19,7 @@ Civil engineers are leveraging AI for:
 
 ---
 
-## ⚙️ Mechanical Engineering: Intelligent Machines
+## Mechanical Engineering: Intelligent Machines
 
 Mechanical engineers utilize AI for:
 
@@ -30,7 +30,7 @@ Mechanical engineers utilize AI for:
 
 ---
 
-## ⚡ Electrical Engineering: Adaptive Systems
+## Electrical Engineering: Adaptive Systems
 
 Electrical engineers benefit from AI in:
 
@@ -41,7 +41,7 @@ Electrical engineers benefit from AI in:
 
 ---
 
-## 🔍 The Role of Context and Protocol in Physical Systems
+## The Role of Context and Protocol in Physical Systems
 
 In these disciplines, the **MCP model** (Model–Context–Protocol) plays a crucial role in ensuring AI solutions perform reliably:
 
@@ -53,7 +53,7 @@ For example, a predictive maintenance model must consider the **context** of mac
 
 ---
 
-## 🌱 Sustainability and AI
+## Sustainability and AI
 
 AI also helps engineers design greener infrastructure and products:
 
@@ -63,7 +63,7 @@ AI also helps engineers design greener infrastructure and products:
 
 ---
 
-## 💡 Looking Ahead
+## Looking Ahead
 
 The convergence of AI with civil, mechanical, and electrical engineering will accelerate innovation across sectors, from smart cities to autonomous vehicles, renewable energy systems, and beyond.
 
@@ -71,4 +71,4 @@ The engineers of tomorrow will need cross-disciplinary fluency — combining dee
 
 ---
 
-## 🔜 Up Next: Chapter 7 – From Rule-Based Systems to Learning Systems
+## Up Next: Chapter 7 – From Rule-Based Systems to Learning Systems

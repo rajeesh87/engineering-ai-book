@@ -1,4 +1,4 @@
-# Chapter 12: Designing AI-First Teams and Organizations
+# Designing AI-First Teams and Organizations
 
 ## Embracing AI at the Core
 
@@ -6,9 +6,9 @@ Building AI-first teams means embedding AI capabilities deeply into every functi
 
 ## Characteristics of AI-First Teams
 
-- **Cross-functional Collaboration:** Engineers, data scientists, product managers, and ethicists work hand-in-hand.  
-- **Data-Centric Culture:** Data drives decisions, experimentation, and iteration.  
-- **Continuous Experimentation:** Teams prototype, test, and improve AI models rapidly.  
+- **Cross-functional Collaboration:** Engineers, data scientists, product managers, and ethicists work hand-in-hand.
+- **Data-Centric Culture:** Data drives decisions, experimentation, and iteration.
+- **Continuous Experimentation:** Teams prototype, test, and improve AI models rapidly.
 - **Agile and Flexible Structure:** Teams adapt quickly to AI technology shifts and market needs.
 
 ## Leadership’s Role
@@ -17,7 +17,7 @@ Leaders must foster an environment that encourages innovation, risk-taking, and 
 
 ## Organizational Models
 
-- **Centralized AI Centers of Excellence:** Specialized teams supporting company-wide AI initiatives.  
+- **Centralized AI Centers of Excellence:** Specialized teams supporting company-wide AI initiatives.
 - **Distributed AI Teams:** Embedding AI experts within product teams for domain-specific solutions.
 
 ## Challenges and Solutions
@@ -30,4 +30,4 @@ Designing AI-first teams is essential for sustainable innovation and competitive
 
 ---
 
-📌 *Up next: Chapter 13 — AI x Edge, IoT, and Robotics.*
+ *Up next: Chapter 13 — AI x Edge, IoT, and Robotics.*

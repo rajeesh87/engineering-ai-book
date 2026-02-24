@@ -1,0 +1,21 @@
+---
+title: "Engineering Everything"
+subtitle: "Why the Future Demands AI and Advanced Technologies"
+author:
+  - "Rajeesh Shenoy"
+lang: en-US
+toc-title: "Table of Contents"
+documentclass: book
+classoption:
+  - oneside
+geometry:
+  - margin=1in
+fontsize: 11pt
+linestretch: 1.15
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+header-includes:
+  - |
+    \setcounter{chapter}{0}
+...
