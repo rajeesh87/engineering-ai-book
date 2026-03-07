@@ -75,15 +75,15 @@ Moving from rule-based to learning systems requires engineers to:
 
 ---
 
-## Contextualizing with the MCP Model
+## Operationalizing Learning Systems
 
-In learning systems, the **MCP (Model–Context–Protocol)** framework helps manage complexity:
+In production learning systems, engineers need explicit operating controls:
 
-- **Model:** The learning algorithm producing outputs.
-- **Context:** The environment and data distribution the model faces.
-- **Protocol:** The rules and processes governing model updates, fail-safes, and human intervention.
+- **Model behavior:** Accuracy, calibration, and drift tracking.
+- **Data context:** Input distribution, seasonality, and domain shift.
+- **Runbook protocols:** Retraining triggers, rollback rules, and human-in-the-loop escalation.
 
-This triad ensures that learning systems remain trustworthy and effective across changing conditions.
+These controls help keep learning systems trustworthy as real-world conditions change.
 
 ---
 
@@ -95,4 +95,4 @@ Engineers equipped to design, deploy, and govern these systems will lead the nex
 
 ---
 
-## Up Next: Chapter 8 – Digital Twins, Simulation & AI
+## Up Next: Chapter 8 — Digital Twins, Simulation & AI

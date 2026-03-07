@@ -80,4 +80,4 @@ AI holds transformative potential to tackle global crises by enabling smarter, f
 
 ---
 
- *Up next: Chapter 17 — The Rise of Autonomous Systems.*
+## Up Next: Chapter 17 — The Rise of Autonomous Systems

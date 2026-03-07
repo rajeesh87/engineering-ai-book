@@ -30,6 +30,13 @@ Engineering has always been defined by the tools available—from drafting table
 
 - Engineers can now program, monitor, and optimize robots using AI tools that facilitate adaptive behavior and learning from operation data.
 
+### 6. LLM Application Tooling
+
+- **Model gateways:** Unified routing across model providers.
+- **Evaluation frameworks:** Offline and online quality checks.
+- **Tracing and observability:** Request-level insight into prompts, retrieval, and tool calls.
+- **Guardrail services:** Policy enforcement and response filtering.
+
 ## Beyond the Toolbox: Skills and Mindsets
 
 Having the latest tools is only part of the equation. Engineers must cultivate:
@@ -70,4 +77,4 @@ The future engineer’s toolbox blends AI, data, and connectivity to unlock unpr
 
 ---
 
- *Up next: Chapter 16 — AI in Crisis: Climate, Infrastructure, and Health.*
+## Up Next: Chapter 16 — AI in Crisis: Climate, Infrastructure, and Health

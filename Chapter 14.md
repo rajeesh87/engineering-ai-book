@@ -27,6 +27,15 @@ Unlike physical materials, data is dynamic — continuously generated, collected
 - **Machine Learning:** Identifying complex correlations to inform design parameters.
 - **Visualization:** Interactive dashboards that help engineers explore and understand data.
 
+## Data for LLM Applications
+
+In modern AI products, data design also includes:
+
+- **Chunking strategy:** Partitioning documents for retrieval quality.
+- **Embedding model choice:** Selecting models suited to your domain and language.
+- **Vector schema:** Storing vectors with metadata for filtering and citations.
+- **Data contracts:** Defining ownership, freshness, and access policies.
+
 ## Case Studies
 
 - **Urban Planning:** Cities use data from sensors and mobile devices to design smarter traffic flows and energy usage.
@@ -50,4 +59,4 @@ Data as the new design material transforms engineering from a static craft into 
 
 ---
 
- *Up next: Chapter 15 — The Future Engineer's Toolbox & Beyond.*
+## Up Next: Chapter 15 — The Future Engineer's Toolbox & Beyond

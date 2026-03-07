@@ -41,15 +41,15 @@ Electrical engineers benefit from AI in:
 
 ---
 
-## The Role of Context and Protocol in Physical Systems
+## AI System Architecture in Physical Systems
 
-In these disciplines, the **MCP model** (Model–Context–Protocol) plays a crucial role in ensuring AI solutions perform reliably:
+In these disciplines, reliable AI depends on the same architecture principles used across modern AI engineering:
 
-- **Model:** Predictive or control algorithms.
-- **Context:** Environmental conditions, sensor accuracy, system constraints.
-- **Protocol:** Safety and regulatory requirements, communication interfaces, fail-safe mechanisms.
+- **Model layer:** Predictive or control models selected for task and latency constraints.
+- **Context and retrieval layer:** Sensor telemetry, environment conditions, and operating history.
+- **Orchestration and policy layer:** Safety thresholds, control logic, communication interfaces, and human override rules.
 
-For example, a predictive maintenance model must consider the **context** of machine load variations and environmental factors, while the **protocol** ensures alerts trigger safe shutdowns or maintenance schedules.
+For example, a predictive maintenance system combines model predictions with live operating context, then applies policy rules to decide whether to trigger alerts, schedule maintenance, or initiate safe shutdown.
 
 ---
 
@@ -71,4 +71,4 @@ The engineers of tomorrow will need cross-disciplinary fluency — combining dee
 
 ---
 
-## Up Next: Chapter 7 – From Rule-Based Systems to Learning Systems
+## Up Next: Chapter 7 — From Rule-Based Systems to Learning Systems

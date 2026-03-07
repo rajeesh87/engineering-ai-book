@@ -59,4 +59,4 @@ The rise of autonomous systems marks a profound shift in engineering and society
 
 ---
 
- *Up next: Chapter 18 — Governance, Bias, and AI Safety.*
+## Up Next: Chapter 18 — Governance, Bias, and AI Safety

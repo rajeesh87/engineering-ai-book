@@ -1,5 +1,5 @@
 # Engineering Everything {.unnumbered}
-### Why the Future Demands AI and Advanced Technologies
+### A 2026 Beginner's Guide to AI Engineering
 
 ---
 

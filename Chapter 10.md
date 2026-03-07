@@ -50,4 +50,4 @@ Responsible AI and engineering ethics are foundational to the future of AI-drive
 
 ---
 
- *Next chapter: Reengineering the Engineer: Skills of the AI Age — preparing engineers for the future workforce.*
+## Up Next: Chapter 11 — Reengineering the Engineer — Skills of the AI Age

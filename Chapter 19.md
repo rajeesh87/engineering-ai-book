@@ -45,6 +45,12 @@ Being an AI-native engineer means integrating AI and advanced technologies deepl
 - Importance of certifications, courses, and hands-on projects to demonstrate AI proficiency.
 - Mentorship and networking in the AI ecosystem.
 
+## 30-60-90 Day Beginner Plan
+
+- **First 30 days:** Learn prompting, structured output, and API fundamentals.
+- **Next 60 days:** Build a RAG prototype with citations and basic evaluation.
+- **By 90 days:** Add monitoring, safety checks, and release process for a real user workflow.
+
 ## Overcoming Challenges
 
 - Addressing the steep learning curve with structured learning plans.
@@ -61,4 +67,4 @@ The journey to becoming an AI-native engineer is ongoing and transformative. By 
 
 ---
 
- *Up next: Chapter 20 — The Next 50 Years of Engineering.*
+## Up Next: Chapter 20 — The Next 50 Years of Engineering

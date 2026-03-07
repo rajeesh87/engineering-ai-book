@@ -77,4 +77,4 @@ The integration of AI with edge, IoT, and robotics represents a new frontier of 
 
 ---
 
- *Up next: Chapter 14 — Data Is the New Design Material.*
+## Up Next: Chapter 14 — Data Is the New Design Material

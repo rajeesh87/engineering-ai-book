@@ -78,4 +78,4 @@ As someone who’s spent over a decade leading engineering teams, I’ve seen ho
 
 ---
 
-## Up Next: Chapter 2 – Traditional Engineering Is Not Enough
+## Up Next: Chapter 2 — Traditional Engineering Is Not Enough

@@ -67,4 +67,4 @@ Predictive maintenance and AI-driven operational intelligence represent a paradi
 
 ---
 
-## Up Next: Chapter 10 – Responsible AI and Engineering Ethics
+## Up Next: Chapter 10 — Responsible AI and Engineering Ethics

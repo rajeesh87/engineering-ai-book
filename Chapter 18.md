@@ -25,6 +25,15 @@ As AI systems become more powerful and widespread, governing their development a
 - **Security:** Protecting systems from adversarial attacks or manipulation.
 - **Alignment:** Aligning AI goals with human values to avoid unintended consequences.
 
+## LLM-Specific Risk Controls
+
+For LLM applications, add controls for:
+
+- **Prompt injection:** Isolate instructions and sanitize untrusted content.
+- **Hallucination:** Require evidence-backed outputs for factual tasks.
+- **Data leakage:** Enforce PII redaction and access-aware retrieval.
+- **Unsafe tool actions:** Add approval gates for sensitive operations.
+
 ## Governance Frameworks and Best Practices
 
 - **Regulatory Approaches:** Laws and guidelines like GDPR, AI Act, and ethical codes for AI practitioners.
@@ -59,4 +68,4 @@ Effective governance and proactive management of bias and safety are indispensab
 
 ---
 
- *Up next: Chapter 19 — Becoming an AI-Native Engineer.*
+## Up Next: Chapter 19 — Becoming an AI-Native Engineer

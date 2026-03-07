@@ -59,4 +59,4 @@ When I began my engineering career, success was measured by how well you could a
 
 ---
 
-## Up Next: Chapter 3 – What Is Advanced AI?
+## Up Next: Chapter 3 — What Is Advanced AI?

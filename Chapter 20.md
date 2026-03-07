@@ -48,6 +48,8 @@ Engineers will be pivotal in solving global challenges:
 
 ## The Vision Forward
 
+No one can predict the future 50 years out with certainty, but given the pace of technological advancements, we can confidently expect faster and more profound shifts than most forecasts assume.
+
 The next 50 years of engineering will be marked by human-AI synergy, where machines amplify human creativity and engineers become architects of intelligent systems that improve life for all.
 
 ## Conclusion

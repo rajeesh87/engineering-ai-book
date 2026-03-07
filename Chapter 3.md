@@ -71,4 +71,4 @@ To ignore that is to ignore the future.
 
 ---
 
-## Up Next: Chapter 4 – The AI Stack for Engineers
+## Up Next: Chapter 21 — Transformers for Beginners

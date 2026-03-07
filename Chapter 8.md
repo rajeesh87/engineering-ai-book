@@ -61,15 +61,15 @@ This loop fosters a living system that improves over time.
 
 ---
 
-## MCP Model in Digital Twins
+## Operating Model for Digital Twins
 
-The **Model–Context–Protocol (MCP)** framework fits naturally here:
+A practical operating model for digital twins includes:
 
-- **Model:** The simulation and AI algorithms driving the twin.
-- **Context:** The physical environment, operational conditions, and user interactions.
-- **Protocol:** The rules for data ingestion, model updates, decision triggers, and human overrides.
+- **Simulation and AI models:** Forecast and control behavior.
+- **System context:** Live operating conditions and environment telemetry.
+- **Operational policies:** Data refresh cadence, alert thresholds, and human override points.
 
-Applying MCP ensures robustness, adaptability, and traceability in complex digital twin systems.
+This approach improves robustness, adaptability, and traceability in complex engineering systems.
 
 ---
 
@@ -88,4 +88,4 @@ Digital twins, empowered by AI and simulation, represent a quantum leap in engin
 
 ---
 
-## Up Next: Chapter 9 – Predictive Maintenance, Quality & Operations
+## Up Next: Chapter 9 — Predictive Maintenance, Quality & Operations

@@ -20,6 +20,16 @@ Leaders must foster an environment that encourages innovation, risk-taking, and 
 - **Centralized AI Centers of Excellence:** Specialized teams supporting company-wide AI initiatives.
 - **Distributed AI Teams:** Embedding AI experts within product teams for domain-specific solutions.
 
+## 2026 Team Topology
+
+A practical AI organization for beginners typically includes:
+
+- **Platform Team:** Shared model gateway, evaluation, and observability.
+- **Product Squads:** Domain-focused delivery teams shipping AI features.
+- **Governance Function:** Security, policy, and legal review for high-risk use cases.
+
+This balances speed with safety and reduces duplicated AI infrastructure work.
+
 ## Challenges and Solutions
 
 Address skill gaps, data silos, and resistance to change with training, infrastructure investment, and transparent communication.
@@ -30,4 +40,4 @@ Designing AI-first teams is essential for sustainable innovation and competitive
 
 ---
 
- *Up next: Chapter 13 — AI x Edge, IoT, and Robotics.*
+## Up Next: Chapter 13 — AI × Edge, IoT, and Robotics
