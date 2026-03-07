@@ -14,7 +14,7 @@ PDF := $(OUT_DIR)/engineering-ai-print-edition.pdf
 EPUB := $(OUT_DIR)/engineering-ai-ereader.epub
 HTML := $(OUT_DIR)/engineering-ai.html
 
-PANDOC_COMMON := --metadata-file=metadata.yaml --toc --toc-depth=2 --number-sections
+PANDOC_COMMON := --metadata-file=metadata.yaml --toc --toc-depth=1 --number-sections
 
 .PHONY: all pdf epub html clean dist
 

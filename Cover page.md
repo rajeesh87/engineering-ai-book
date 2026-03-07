@@ -12,15 +12,7 @@
 
 ---
 
-### Published: 2025
-### Location: Global Release via Amazon Kindle Direct Publishing
-### ISBN: (To be assigned by Amazon KDP)
-
----
-
-**Cover Design:** *(To be created separately — image-ready file)*
-**Book Formatting:** Kindle eBook & Paperback Edition
-**License:** © 2025 Rajeesh Shenoy. All rights reserved.
+**License:** © 2026 Rajeesh Shenoy. All rights reserved.
 
 ---
 
