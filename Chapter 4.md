@@ -50,7 +50,3 @@ Building useful AI products now means designing a full system, not only choosing
 ## Chapter Summary
 
 The modern AI stack is system-centric. Beginner engineers who learn layered architecture will ship faster and avoid expensive reliability failures.
-
----
-
-## Up Next: Chapter 5 — AI in Software Engineering

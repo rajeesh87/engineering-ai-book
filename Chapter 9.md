@@ -65,6 +65,4 @@ This continuous improvement cycle drives operational excellence.
 
 Predictive maintenance and AI-driven operational intelligence represent a paradigm shift. They enable engineers and operators to move from firefighting to foresight, enhancing reliability, quality, and efficiency across industries.
 
----
 
-## Up Next: Chapter 10 — Responsible AI and Engineering Ethics

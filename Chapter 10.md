@@ -47,7 +47,3 @@ Engineers are not just builders but also guardians of the societal impact of tec
 ## Conclusion
 
 Responsible AI and engineering ethics are foundational to the future of AI-driven engineering. By embedding ethical principles into every stage of AI development, engineers can ensure AI technologies benefit all humanity fairly and safely.
-
----
-
-## Up Next: Chapter 11 — Reengineering the Engineer — Skills of the AI Age

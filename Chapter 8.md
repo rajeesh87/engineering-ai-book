@@ -86,6 +86,4 @@ This approach improves robustness, adaptability, and traceability in complex eng
 
 Digital twins, empowered by AI and simulation, represent a quantum leap in engineering practice. They enable engineers to visualize, predict, and optimize complex systems continuously—paving the way for smarter, safer, and more efficient engineered solutions.
 
----
 
-## Up Next: Chapter 9 — Predictive Maintenance, Quality & Operations

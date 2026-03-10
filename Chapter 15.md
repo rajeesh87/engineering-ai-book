@@ -75,6 +75,3 @@ Organizations and educational institutions must invest in:
 
 The future engineer’s toolbox blends AI, data, and connectivity to unlock unprecedented capabilities. Embracing these tools and the accompanying mindset will define the next generation of engineering excellence.
 
----
-
-## Up Next: Chapter 16 — AI in Crisis: Climate, Infrastructure, and Health

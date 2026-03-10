@@ -54,7 +54,3 @@ This sequence moves from quick wins to production-grade engineering habits.
 ## Conclusion
 
 Reengineering the engineer means cultivating a diverse skill set that blends technology, ethics, and collaboration. This new breed of engineers will lead the AI-driven transformation across industries.
-
----
-
-## Up Next: Chapter 12 — Designing AI-First Teams and Organizations

@@ -37,7 +37,3 @@ Address skill gaps, data silos, and resistance to change with training, infrastr
 ## Conclusion
 
 Designing AI-first teams is essential for sustainable innovation and competitive advantage in the AI era.
-
----
-
-## Up Next: Chapter 13 — AI × Edge, IoT, and Robotics

@@ -68,7 +68,3 @@ If you don’t understand AI, you risk designing systems that are outdated the d
 When I first studied machine learning, I assumed it was just another tool. But I soon realized it was something else: a new substrate of intelligence. One that doesn’t just follow instructions, but **discovers new knowledge**, in ways no traditional algorithm could.
 
 To ignore that is to ignore the future.
-
----
-
-## Up Next: Chapter 21 — Transformers for Beginners

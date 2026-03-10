@@ -65,7 +65,3 @@ Engineers must embed governance, fairness, and safety principles from design to 
 ## Conclusion
 
 Effective governance and proactive management of bias and safety are indispensable to trustworthy AI systems. Engineers play a pivotal role in upholding these values to build AI that serves humanity equitably and safely.
-
----
-
-## Up Next: Chapter 19 — Becoming an AI-Native Engineer

@@ -57,6 +57,3 @@ Today? Engineer B is designing self-adaptive systems, leading innovation teams, 
 
 When I began my engineering career, success was measured by how well you could apply known equations to known problems. But now? I’m more interested in how engineers can solve **unknown problems using learning systems**. The old rules don’t apply anymore. We need a hybrid mindset — systems thinking, ethical responsibility, and intelligent augmentation.
 
----
-
-## Up Next: Chapter 3 — What Is Advanced AI?

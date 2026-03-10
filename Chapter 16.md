@@ -78,6 +78,3 @@ AI integrates data from traffic, utilities, public safety, and citizen feedback 
 
 AI holds transformative potential to tackle global crises by enabling smarter, faster, and more equitable solutions. As engineers, harnessing AI responsibly in climate, infrastructure, and health domains is not just an opportunity—it’s an imperative for the survival and prosperity of humanity.
 
----
-
-## Up Next: Chapter 17 — The Rise of Autonomous Systems

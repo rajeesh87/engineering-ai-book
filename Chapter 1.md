@@ -76,6 +76,3 @@ Want to future-proof your career? Start here:
 
 As someone who’s spent over a decade leading engineering teams, I’ve seen how AI transforms not just tools, but **mindsets**. My vision is simple: every engineer, from a college student to a CTO, should see AI as a **superpower** — not a threat. The ones who embrace it will design the future. The rest will just live in it.
 
----
-
-## Up Next: Chapter 2 — Traditional Engineering Is Not Enough

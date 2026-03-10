@@ -93,6 +93,4 @@ The shift to learning systems represents a new engineering paradigm — one that
 
 Engineers equipped to design, deploy, and govern these systems will lead the next wave of innovation.
 
----
 
-## Up Next: Chapter 8 — Digital Twins, Simulation & AI

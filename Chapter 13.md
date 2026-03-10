@@ -74,7 +74,3 @@ The combination of AI, edge computing, IoT, and robotics creates ecosystems wher
 ## Conclusion
 
 The integration of AI with edge, IoT, and robotics represents a new frontier of intelligent systems that operate autonomously and efficiently in real-world environments. Organizations that harness this synergy will pioneer innovations that redefine productivity, safety, and quality of life.
-
----
-
-## Up Next: Chapter 14 — Data Is the New Design Material

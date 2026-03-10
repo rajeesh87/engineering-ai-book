@@ -56,7 +56,3 @@ As sensors, AI algorithms, and computing power evolve, autonomous systems will e
 ## Conclusion
 
 The rise of autonomous systems marks a profound shift in engineering and society. Embracing this shift with responsibility, innovation, and foresight is crucial for engineers shaping the future of autonomy.
-
----
-
-## Up Next: Chapter 18 — Governance, Bias, and AI Safety

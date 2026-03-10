@@ -69,6 +69,4 @@ The convergence of AI with civil, mechanical, and electrical engineering will ac
 
 The engineers of tomorrow will need cross-disciplinary fluency — combining deep domain expertise with AI literacy — to build a safer, smarter, and more sustainable world.
 
----
 
-## Up Next: Chapter 7 — From Rule-Based Systems to Learning Systems

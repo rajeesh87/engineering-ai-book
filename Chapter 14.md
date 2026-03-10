@@ -56,7 +56,3 @@ The engineer’s role evolves to become a “data sculptor,” shaping and refin
 ## Conclusion
 
 Data as the new design material transforms engineering from a static craft into a dynamic, continuous process fueled by insights and learning. Mastering this shift is essential for engineers aiming to create next-generation solutions that are smarter, more efficient, and deeply responsive to real-world needs.
-
----
-
-## Up Next: Chapter 15 — The Future Engineer's Toolbox & Beyond

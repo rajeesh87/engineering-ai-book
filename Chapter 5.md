@@ -48,7 +48,3 @@ Build an "engineering docs assistant" that:
 ## Chapter Summary
 
 AI in software engineering is no longer only productivity tooling. It is a product engineering discipline with reliability and governance requirements.
-
----
-
-## Up Next: Chapter 6 — AI in Civil, Mechanical, and Electrical Engineering

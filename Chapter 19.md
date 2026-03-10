@@ -64,7 +64,3 @@ Becoming AI-native empowers engineers to drive innovation that transforms indust
 ## Conclusion
 
 The journey to becoming an AI-native engineer is ongoing and transformative. By embracing AI deeply, engineers unlock new possibilities for creativity, impact, and leadership in the age of advanced technologies.
-
----
-
-## Up Next: Chapter 20 — The Next 50 Years of Engineering
