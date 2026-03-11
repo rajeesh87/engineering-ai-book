@@ -4,7 +4,7 @@
 ---
 
 **Author:** Rajeesh Shenoy
-*Senior Engineering Leader & AI-First Transformation Strategist*
+*Senior Engineering Manager & AI-First Transformation Strategist*
 
 ---
 
